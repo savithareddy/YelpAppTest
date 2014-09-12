@@ -130,7 +130,7 @@ const unsigned char SpeechKitApplicationKey[] = {0x99, 0x0a, 0x08, 0xc4, 0xbb, 0
     UIWebView *webView = [[UIWebView alloc] init];
     viewCtrl.view = webView;
     [self.navigationController pushViewController:viewCtrl animated:YES];
-    NSLog(@"url in mainVC is %@",[tableArray valueForKey:@"yelp"]);
+//    NSLog(@"url in mainVC is %@",[tableArray valueForKey:@"yelp"]);
     NSDictionary *mainDict = tableArray[indexPath.row];
     [webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:mainDict[@"yelp"]]]];
     
