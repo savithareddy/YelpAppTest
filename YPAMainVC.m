@@ -113,7 +113,7 @@ const unsigned char SpeechKitApplicationKey[] = {0x99, 0x0a, 0x08, 0xc4, 0xbb, 0
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    YPATableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cellIdentifier"];
+       YPATableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cellIdentifier"];
     if (cell == nil) {
         cell = [[YPATableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"cellIdentifier"];
     }
