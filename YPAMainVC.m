@@ -28,11 +28,11 @@ const unsigned char SpeechKitApplicationKey[] = {0x99, 0x0a, 0x08, 0xc4, 0xbb, 0
 
 @implementation YPAMainVC
 {
-    UITextField *textConvert;
+      UITextField *textConvert;
     UIButton *micButton;
     UILabel *recordText;
     CLLocationManager *lManager;
-    CLLocation *currentLocation;
+       CLLocation *currentLocation;
 //    YPATableCustomVC *customTable;
     YPAYelpRequest *yelpRequest;
     UITableView *customTableView;

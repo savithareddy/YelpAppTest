@@ -10,22 +10,26 @@
 	<string>YelpApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>875F2362E4F45A8F2A4E81DD980F209DD8D8F6B3</key>
+		<string>https://github.com/savithareddy/YelpAppTest.git</string>
 		<key>E227FE078C5E6C79D4CF85F66E50F128AF5A635D</key>
 		<string>https://github.com/savithareddy/YelpApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>YelpApp.xcodeproj/project.xcworkspace</string>
+	<string>YelpApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E227FE078C5E6C79D4CF85F66E50F128AF5A635D</key>
+		<key>875F2362E4F45A8F2A4E81DD980F209DD8D8F6B3</key>
 		<string>../..</string>
+		<key>E227FE078C5E6C79D4CF85F66E50F128AF5A635D</key>
+		<string>../../../YelpApp</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/savithareddy/YelpApp.git</string>
+	<string>https://github.com/savithareddy/YelpAppTest.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E227FE078C5E6C79D4CF85F66E50F128AF5A635D</string>
+	<string>875F2362E4F45A8F2A4E81DD980F209DD8D8F6B3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>E227FE078C5E6C79D4CF85F66E50F128AF5A635D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>YelpApp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>875F2362E4F45A8F2A4E81DD980F209DD8D8F6B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YelpAppTest</string>
 		</dict>
 	</array>
 </dict>
